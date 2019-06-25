@@ -1,0 +1,64 @@
+item {
+  id: 1
+  name: 'Private'
+}
+
+item {
+  id: 2
+  name: 'Truck'
+}
+
+item {
+  id: 3
+  name: 'Bus'
+}
+
+item {
+  id: 4
+  name: 'SharedTaxi'
+}
+
+item {
+  id: 5
+  name: 'Transit'
+}
+
+item {
+  id: 6
+  name: 'SUV'
+}
+
+item {
+  id: 7
+  name: 'Commercial'
+}
+
+item {
+  id: 8
+  name: 'Taxi'
+}
+
+item {
+  id: 9
+  name: 'Pickup'
+}
+
+item {
+  id: 10
+  name: 'Minivan'
+}
+
+item {
+  id: 11
+  name: 'Motorcycle'
+}
+
+item {
+  id: 12
+  name: 'SmallTruck'
+}
+
+item {
+  id: 13
+  name: 'Jeep'
+}
