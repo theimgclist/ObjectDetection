@@ -32,33 +32,3 @@ item {
   id: 7
   name: 'Commercial'
 }
-
-item {
-  id: 8
-  name: 'Taxi'
-}
-
-item {
-  id: 9
-  name: 'Pickup'
-}
-
-item {
-  id: 10
-  name: 'Minivan'
-}
-
-item {
-  id: 11
-  name: 'Motorcycle'
-}
-
-item {
-  id: 12
-  name: 'SmallTruck'
-}
-
-item {
-  id: 13
-  name: 'Jeep'
-}
