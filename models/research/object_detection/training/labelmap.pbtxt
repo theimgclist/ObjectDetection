@@ -27,8 +27,3 @@ item {
   id: 6
   name: 'SUV'
 }
-
-item {
-  id: 7
-  name: 'Commercial'
-}
